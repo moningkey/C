@@ -59,9 +59,8 @@ const { GroupCacheUpdate, GroupParticipantsUpdate, MessagesUpsert, Solving } = r
 const { isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, sleep } = require('./lib/function');
 
 /*
-	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+	* Create By Putra
+	* Whatsapp : https://whatsapp.com/channel/0029Vb9vUl87IUYdPKstqo3h
 */
 
 async function startNazeBot() {
