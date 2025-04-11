@@ -1014,7 +1014,7 @@ module.exports = naze = async (naze, m, msg, store, groupCache) => {
 			}
 			break
 			case 'sc': case 'script': {
-				await m.reply(`https://github.com/nazedev/hitori\n⬆️ Itu Sc nya cuy`, {
+				await m.reply(`https://www.instagram.com/ptra.hehe?igsh=MzlqMGtwZGx5ZHZl\n⬆️ Itu IG nya cuy`, {
 					contextInfo: {
 						forwardingScore: 10,
 						isForwarded: true,
@@ -1036,7 +1036,7 @@ module.exports = naze = async (naze, m, msg, store, groupCache) => {
 			}
 			break
 			case 'donasi': case 'donate': {
-				m.reply('Donasi Dapat Melalui Url Dibawah Ini :\nhttps://saweria.co/naze')
+				m.reply('Donasi Dapat Melalui No Dibawah Ini :\n/085183001078')
 			}
 			break
 			
